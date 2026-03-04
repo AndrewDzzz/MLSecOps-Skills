@@ -1,0 +1,4 @@
+interface:
+  display_name: "MLSecOps Supply Chain"
+  short_description: "Harden ML dependencies, artifacts, and CI/CD"
+  default_prompt: "Use $mlsecops-supply-chain to create provenance and CI/CD hardening controls for this ML stack."

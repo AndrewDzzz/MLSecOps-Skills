@@ -1,0 +1,4 @@
+interface:
+  display_name: "MLSecOps Orchestrator"
+  short_description: "Orchestrate end-to-end MLSecOps roadmaps"
+  default_prompt: "Use $mlsecops-codex-orchestrator to generate a prioritized MLSecOps task.md plan for this project."

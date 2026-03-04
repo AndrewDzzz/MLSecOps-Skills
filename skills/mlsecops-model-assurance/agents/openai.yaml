@@ -1,0 +1,4 @@
+interface:
+  display_name: "MLSecOps Model Assurance"
+  short_description: "Run adversarial and abuse release assurance"
+  default_prompt: "Use $mlsecops-model-assurance to define attack tests and release gates for this model."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "MLSecOps Runtime Defense"
+  short_description: "Defend live ML/LLM serving runtime surfaces"
+  default_prompt: "Use $mlsecops-runtime-defense to harden runtime API controls, containment, and safe-failure behavior."

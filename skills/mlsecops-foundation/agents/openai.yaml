@@ -1,0 +1,4 @@
+interface:
+  display_name: "MLSecOps Foundation"
+  short_description: "Build baseline ML/LLM threat control plans"
+  default_prompt: "Use $mlsecops-foundation to produce an initial threat register and control baseline for this system."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "MLSecOps Governance"
+  short_description: "Map MLSecOps controls to audit evidence"
+  default_prompt: "Use $mlsecops-governance to map controls, evidence, and exception handling for this compliance scope."

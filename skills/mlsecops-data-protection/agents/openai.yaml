@@ -1,0 +1,4 @@
+interface:
+  display_name: "MLSecOps Data Protection"
+  short_description: "Secure ML data lifecycle and privacy controls"
+  default_prompt: "Use $mlsecops-data-protection to harden ingestion, lineage, and privacy controls for this data pipeline."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "MLSecOps Observability and IR"
+  short_description: "Build ML security monitoring and IR playbooks"
+  default_prompt: "Use $mlsecops-observability-ir to define telemetry, detections, and incident playbooks for this deployment."
