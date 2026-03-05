@@ -211,3 +211,4 @@ skills/mlsecops-codex-orchestrator/scripts/
 - This repo is intentionally security-engineering first, not documentation-only.
 - Security evidence is treated as release-relevant output, not a retrospective checklist.
 - Prompt/tool abuse and artifact integrity are part of the shared release contract across all skills.
+- Inspired by the [MLOps Coding Course](https://github.com/MLOps-Courses/mlops-coding-course), we build MLSecOps skills.
